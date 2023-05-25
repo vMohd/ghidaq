@@ -8,11 +8,11 @@ To ensure the project functions correctly, it's important to populate the databa
 
 1. Run the following command to seed the database with items:
 
-**php artisan db:seed --class=ItemSeeder**
+**`php artisan db:seed --class=ItemSeeder`**
 
 2. Run the following command to seed the database with promo codes:
 
-`php artisan db:seed --class=PromoSeeder`
+**`php artisan db:seed --class=PromoSeeder`**
 
 These commands will populate the database with sample items and promo codes, allowing you to test and explore the project's features.
 
