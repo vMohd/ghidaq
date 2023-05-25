@@ -1,0 +1,14 @@
+.theme-1 {
+    --primary-color: #707D9D;
+    --secondary-color: #FCF9BF;
+  }
+    
+  .theme-2 {
+    --primary-color: #008080;
+    --secondary-color: #FFA07A;
+  }
+
+  .spacer{
+    clear:both;
+    height:20px
+}
