@@ -23,3 +23,40 @@ These commands will populate the database with sample items and promo codes, all
 Feel free to modify the seeders or add more data as needed.
 
 Thank you for using Ghidaq Luxury Jewelry!
+
+## Installation
+
+To get started with this project, follow the steps below:
+
+1. Install the PHP dependencies by running the following command:
+
+`composer install`
+
+2. Install the JavaScript dependencies by running the following command:
+
+`npm install`
+
+3. Create a copy of the .env.example file and rename it to .env. Or You can use the following command:
+
+`cp .env.example .env`
+
+4. Generate an application key by running the following command:
+
+`php artisan key:generate`
+
+5. Configure the database settings in the .env file with your database credentials.
+
+6. Run the database migrations to create the required tables in the database:
+
+`php artisan migrate`
+
+7. Compile the assets by running the following command:
+
+`npm run dev`
+
+8. Start the development server by running the following command:
+
+`php artisan serve`
+
+
+That's it! You have successfully installed and set it up. You can now start exploring and using the features of this PHP Laravel project.
