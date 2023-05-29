@@ -59,7 +59,7 @@ To logout, you can click on the "Logout" button located in the drop-down menu, w
 
 ### Checkout 
 <div align="center">
-  <img src="media/Checkout.gif" width="50%" alt="Checkout page">
+  <img src="media/Checkout.gif" width="75%" alt="Checkout page">
 </div>
 To complete the purchase, users need to provide the necessary billing information on the checkout page. Furthermore, they can apply promo codes during the process to take advantage of any available discounts.
 
