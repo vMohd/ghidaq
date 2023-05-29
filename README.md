@@ -1,6 +1,19 @@
-# Ghidaq Luxury Jewelry
+<!-- PROJECT LOGO -->
+<div align="center">
+  <a href="https://github.com/vMohd/ghidaq">
+    <img src="media/ghidaq.png" alt=" Ghidaq Logo">
+  </a>
+</div>
+
+
+
+# About: Ghidaq Luxury Jewelry
 Ghidaq Luxury Jewelry is a PHP Laravel eCommerce project that provides an online jewelry store with various features. The project includes user authentication for login and registration, a secure checkout process, support for promo codes to offer discounts, and detailed invoices with comprehensive order information. Users can also access their order history to view their past purchases. The project utilizes a MySQL database to store and manage the data. This project aims to create a smooth and enjoyable shopping experience for customers in the world of luxury jewelry.
 
+## Built With
+
+* [![My Skills](https://skills.thijs.gg/icons?i=bootstrap,html,css)](https://skills.thijs.gg)
+* [![My Skills](https://skills.thijs.gg/icons?i=php,laravel,mysql)](https://skills.thijs.gg)
 
 ## **Important: Database Seeding Instructions**
 
