@@ -15,27 +15,22 @@ Ghidaq Luxury Jewelry is a PHP Laravel eCommerce project that provides an online
 * [![My Skills](https://skills.thijs.gg/icons?i=bootstrap,html,css)](https://skills.thijs.gg)
 * [![My Skills](https://skills.thijs.gg/icons?i=php,laravel,mysql)](https://skills.thijs.gg)
 
-## **Important: Database Seeding Instructions**
 
-To ensure the project functions correctly, it's important to populate the database with initial data, including items and promo codes. Before running the following commands, please make sure you have a working database connection configured.
 
-1. Run the following command to seed the database with items:
 
-**`php artisan db:seed --class=ItemSeeder`**
 
-2. Run the following command to seed the database with promo codes:
 
-**`php artisan db:seed --class=PromoSeeder`**
 
-Alternatively, you can run the following command to seed the database with all the necessary data in one go:
+## Getting Started
 
-**`php artisan db:seed`**
+#### Prerequisites 
 
-These commands will populate the database with sample items and promo codes, allowing you to test and explore the project's features.
-
-Feel free to modify the seeders or add more data as needed.
-
-Thank you for using Ghidaq Luxury Jewelry!
+* PHP
+* Composer
+* Laravel
+* MySQL
+* Web Server (XAMPP)
+* Text Editor/IDE (VS Code)
 
 ## Installation
 
@@ -63,13 +58,41 @@ To get started with this project, follow the steps below:
 
 `php artisan migrate`
 
-7. Compile the assets by running the following command:
+7. Seed the database with all the necessary data:
+
+`php artisan db:seed`
+
+8. Compile the assets by running the following command:
 
 `npm run dev`
 
-8. Start the development server by running the following command:
+9. Start the development server by running the following command:
 
 `php artisan serve`
 
 
 That's it! You have successfully installed and set it up. You can now start exploring and using the features of this PHP Laravel project.
+
+
+#### **Important: Database Seeding Instructions**
+
+To ensure the project functions correctly, it's important to populate the database with initial data, including items and promo codes. Before running the following commands, please make sure you have a working database connection configured.
+
+1. Run the following command to seed the database with items:
+
+**`php artisan db:seed --class=ItemSeeder`**
+
+2. Run the following command to seed the database with promo codes:
+
+**`php artisan db:seed --class=PromoSeeder`**
+
+Alternatively, you can run the following command to seed the database with all the necessary data in one go:
+
+**`php artisan db:seed`**
+
+These commands will populate the database with sample items and promo codes, allowing you to test and explore the project's features.
+
+Feel free to modify the seeders or add more data as needed.
+
+Thank you for using Ghidaq Luxury Jewelry!
+
