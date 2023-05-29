@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://github.com/vMohd/ghidaq">
-    <img src="media/ghidaq.png" alt=" Ghidaq Logo">
+    <img src="media/ghidaq-logo.png" alt=" Ghidaq Logo">
   </a>
 </div>
 
