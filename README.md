@@ -7,7 +7,7 @@
 
 
 
-# About:
+# About Ghidaq
 Ghidaq Luxury Jewelry is a PHP Laravel eCommerce project that provides an online jewelry store with various features. The project includes user authentication for login and registration, a secure checkout process, support for promo codes to offer discounts, and detailed invoices with comprehensive order information. Users can also access their order history to view their past purchases. The project utilizes a MySQL database to store and manage the data. This project aims to create a smooth and enjoyable shopping experience for customers in the world of luxury jewelry.
 
 ## Built With
@@ -19,7 +19,7 @@ Ghidaq Luxury Jewelry is a PHP Laravel eCommerce project that provides an online
 
 ### Home Page
 <div align="center">
-  <img src="media/Home.gif" width="50%" alt="home page">
+  <img src="media/Home.gif" width="50%" alt="Ghidaq Home page">
 </div>
 On Ghidaq home page, users can navigate through different sections, including Ghidaq Collection, About Us, Our Promise, and Contact Us
 
@@ -27,7 +27,7 @@ On Ghidaq home page, users can navigate through different sections, including Gh
 
 ### Registration
 <div align="center">
-  <img src="media/Register.gif" width="50%" alt="home page">
+  <img src="media/Register.gif" width="50%" alt="Register page">
 </div>
 To Register, simply click on the "Register" button located in the top-right corner of the page's navbar. This will direct you to the registration form, where you can fill in the required information and submit the form to create your account.
 
@@ -35,7 +35,7 @@ To Register, simply click on the "Register" button located in the top-right corn
 
 ### Login 
 <div align="center">
-  <img src="media/Login.gif" width="50%" alt="home page">
+  <img src="media/Login.gif" width="50%" alt="Login page">
 </div>
 To Login, click on the "Login" button located in the top-right corner of the page's navbar. This will take you to the login form where you can enter your credentials and access your account.
 
@@ -43,7 +43,7 @@ To Login, click on the "Login" button located in the top-right corner of the pag
 
 ### Validation
 <div align="center">
-  <img src="media/Validation.gif" width="50%" alt="home page">
+  <img src="media/Validation.gif" width="50%" alt="Validation">
 </div>
 Before allowing users to submit their input, the system performs thorough validation to ensure the accuracy and integrity of the data.
 
@@ -51,7 +51,7 @@ Before allowing users to submit their input, the system performs thorough valida
 
 ### Logout
 <div align="center">
-  <img src="media/Logout.gif" width="50%" alt="home page">
+  <img src="media/Logout.gif" width="50%" alt="Logout page">
 </div>
 To logout, you can click on the "Logout" button located in the drop-down menu, which is accessible by clicking on your account name at the top-right corner of the page. 
 
@@ -59,15 +59,15 @@ To logout, you can click on the "Logout" button located in the drop-down menu, w
 
 ### Checkout 
 <div align="center">
-  <img src="media/Checkout.gif" width="50%" alt="home page">
+  <img src="media/Checkout.gif" width="50%" alt="Checkout page">
 </div>
-To complete the purchase, users must fill out the billing forms on the checkout page.
+To complete the purchase, users need to provide the necessary billing information on the checkout page. Furthermore, they can apply promo codes during the process to take advantage of any available discounts.
 
 ---
 
 ### Invoice 
 <div align="center">
-  <img src="media/Invoice.gif" width="50%" alt="home page">
+  <img src="media/Invoice.gif" width="50%" alt="Invoice page">
 </div>
 After the checkout, users will be redirected to the invoice page, confirming their successful order. They can click on "Show Details" to view all the additional information about their order.
 
@@ -75,7 +75,7 @@ After the checkout, users will be redirected to the invoice page, confirming the
 
 ### Orders Page
 <div align="center">
-  <img src="media/Orders.gif" width="50%" alt="home page">
+  <img src="media/Orders.gif" width="50%" alt="Orders page">
 </div>
 Users can access and view all of their orders by clicking on the My Orders button located in the drop-down menu, which is accessible by clicking on their account name at the top-right corner of the page.
 
