@@ -93,7 +93,6 @@ Users can access and view all of their orders by clicking on the My Orders butto
 * Composer
 * Laravel
 * MySQL
-* Web Server (XAMPP)
 
 ## Installation
 
